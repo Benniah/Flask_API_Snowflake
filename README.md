@@ -33,7 +33,7 @@ export SNOWFLAKE_ACCOUNT ='your snowflake account'
 
 # How to run ?
 
-Kindly execute the code when all the conditions above have been satified :
+Kindly execute the code when all the conditions above have been satisfied :
 
 ```bash
 
